@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Alex, a 19 year-old uni student studying Robotics at UPV. Alongside robotics, I'm also interested in full-stack web development and everything Wii-related.
-You can catch me working on development and design @ WiiLink!
+You can catch me working on development and design @ ![WiiLink](https://github.com/WiiLink24)!
 
 
 ## My stats
